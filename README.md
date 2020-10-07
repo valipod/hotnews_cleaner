@@ -7,4 +7,4 @@ Install
 =======
 
 * Use https://addons.mozilla.org/en-US/firefox/addon/custom-style-script/ or a similar addon to allow automatic running of own JS files when loading a specific page.
-* Create a rule for https://www.hotnews.ro with the JS
+* Create a rule for https://www.hotnews.ro with the content of hotnews_cleaner.js
