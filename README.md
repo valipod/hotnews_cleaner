@@ -1,9 +1,5 @@
-
-
-
-======================
 Hotnews.ro homepage cleaner
-======================
+===========================
 
 Some javascript code to cleanup the s#1t from the hotnews.ro homepage.
 
